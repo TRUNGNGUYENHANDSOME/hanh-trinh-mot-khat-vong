@@ -1,0 +1,8 @@
+WEB BÁC HỒ — BẢN TRÌNH CHIẾU
+
+1. Giải nén toàn bộ thư mục WEB-BAC-HO.
+2. Nhấp đúp MO-WEB-BAC-HO.html để mở bằng Chrome hoặc Edge.
+3. Chọn có âm thanh hoặc không âm thanh; bấm các năm ở thanh dưới để di chuyển.
+
+Giữ nguyên thư mục media cạnh file HTML. Không cần Internet, Node hay cài công cụ lập trình. Liên kết nguồn bên ngoài cần mạng.
+Video review sách đang chờ nhóm cung cấp. Đóng tab để kết thúc.
